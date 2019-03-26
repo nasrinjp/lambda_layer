@@ -2,9 +2,9 @@ Module for Lambda Layer
 ====
 
 ## 説明
-Lambda Layerとして使用するモジュールです。
-python/aws_security.py : AWS KMSから暗号化されたテキストを復号化するモジュールです。
-python/backlog.py : Backlog APIをコールするモジュールです。
+Lambda Layerとして使用するモジュールです。  
+python/aws_security.py : AWS KMSから暗号化されたテキストを復号化するモジュールです。  
+python/backlog.py : Backlog APIをコールするモジュールです。  
 
 
 ## Install
